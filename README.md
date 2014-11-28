@@ -1,4 +1,5 @@
-Adb-fastboot-linux
+Android Tools
 ==================
 
-Prebuilt adb and fastboot static binaries for x86 and x86-64
+ADB and Fastboot binaries for Linux x86_64 (static)
+Toolchains for ARM Android (arm-eabi-gcc, arm-linux-androideabi-gcc)
